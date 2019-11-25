@@ -1,0 +1,16 @@
+{
+  "name": "simple_db.js",
+  "version": "1.0.0",
+  "description": "Simple sync db using indexeddb and local storage",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "db",
+    "database"
+  ],
+  "author": "EranHD",
+  "license": "ISC"
+}
